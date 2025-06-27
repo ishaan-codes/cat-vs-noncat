@@ -50,12 +50,12 @@ This project implements a **2-layer neural network** from scratch using NumPy to
 - **Cost Reduction**:
   - Cost after iteration 0: 0.6931
   - Cost after iteration 100: 0.6488
-  - ...
+    ...
   - Cost after iteration 2400: 0.2873
 - **Accuracy**:
   - Training: ~99%
   - Testing: ~70% (typical for this architecture/dataset)
-  - **Training Dynamics**:
+- **Training Dynamics**:
   - Steady cost decrease indicates effective learning
   - Hidden layer size (7 units) balances under/overfitting
 
